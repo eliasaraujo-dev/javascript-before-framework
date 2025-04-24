@@ -52,7 +52,7 @@ This is a living repository, continuously updated as I learn more about JavaScri
 
 ## 👨‍💻 About me
 
-Elias Araújo • Frontend Developer Jr  
+Elias Araújo • Developer  
 📍 Manguinhos, Rio de Janeiro, Brazil  
 📧 eliasaraujx@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/eliasaraujx) | [GitHub](https://github.com/eliasaraujxdev)
